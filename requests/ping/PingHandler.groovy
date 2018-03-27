@@ -8,6 +8,8 @@ class PingHandler extends AbstractHandler {
 
     @Override
     Object handle() {
+        println "Hello from a sample Maestro Extension point"
+
         this.getClient().publish(MaestroTopics.MAESTRO_TOPIC, new OkResponse())
         return null
     }
