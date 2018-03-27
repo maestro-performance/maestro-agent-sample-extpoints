@@ -12,7 +12,7 @@ class PingHandler extends AbstractHandler {
 
     @Override
     Object handle() {
-        logger.info("Hello from a sample Maestro Extension point");
+        logger.info("Hello from a sample Maestro Extension point (from devel branch)");
 
         this.getClient().publish(MaestroTopics.MAESTRO_TOPIC, new OkResponse())
         return null
