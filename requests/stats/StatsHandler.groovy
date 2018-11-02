@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.stats
+package requests.stats
 
 import org.maestro.agent.base.AbstractHandler
 

@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.ok
+package requests.ok
 
 import org.maestro.agent.base.AbstractHandler
 

@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.startinspector
+package requests.startinspector
 
 import org.maestro.agent.base.AbstractHandler
 

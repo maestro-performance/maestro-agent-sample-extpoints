@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.notifyfail
+package requests.notifyfail
 
 import org.maestro.agent.base.AbstractHandler
 

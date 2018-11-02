@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.internalerror
+package requests.internalerror
 
 import org.maestro.agent.base.AbstractHandler
 

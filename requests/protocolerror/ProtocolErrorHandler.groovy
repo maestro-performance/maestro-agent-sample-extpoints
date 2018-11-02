@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.protocolerror
+package requests.protocolerror
 
 import org.maestro.agent.base.AbstractHandler
 

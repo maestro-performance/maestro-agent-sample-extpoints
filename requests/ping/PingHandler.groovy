@@ -1,4 +1,4 @@
-package org.maestro.agent.ext.requests.ping
+package requests.ping
 
 import org.maestro.agent.base.AbstractHandler
 
